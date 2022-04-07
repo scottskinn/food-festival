@@ -103,3 +103,19 @@ p.lead {
   background-color: rgba(59, 61, 59, 0.45);
   display: inline-block;
 }
+
+.flex-center{
+  display: flex;
+  justify-content: space-evenly;
+  min-height: 150px;
+}
+
+.flex-center a {
+  /* margin: 1rem; */
+  padding: 1rem 2rem;
+  flex-grow: 1;
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
