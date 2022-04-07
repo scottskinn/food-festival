@@ -8,7 +8,7 @@ $(document).ready(function() {
   // First image is hard coded in index.html
   const carouselSlides = [
     {
-      title: "We travel all over the US",
+      title: "We travel all over Canada",
       subtitle: "Check out our schedule!",
       img: img1,
       btnText: "View Schedule",

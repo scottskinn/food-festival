@@ -2,7 +2,6 @@
   "name": "food-festival",
   "version": "1.0.0",
   "main": "assets/js/script.js",
-  "Content-Encoding": "br",
   "scripts": {
     "webpack": "webpack --watch",
     "build": "webpack",
